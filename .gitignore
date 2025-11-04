@@ -1,0 +1,19 @@
+# Node
+node_modules/
+dist/
+.vite/
+.env
+.env.local
+.env.development
+.env.production
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+coverage/
+.idea/
+.vscode/
+*.log
+# Optional lockfile if you keep it out of repo
+# package-lock.json
